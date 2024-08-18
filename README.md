@@ -1,7 +1,9 @@
 
 # Pat & Jack Stories
 
-This code can be a good start to learn to use the OpenAI API to generate content with a simple prompt and some ways to customize output.  This application generates concise stories for a 10-year-old audience, featuring two brothers, Pat and Jack, who embark on adventures in rural western Pennsylvania. It was inspired by stories my grandfather told when I was a kid.  The stories are generated using OpenAI's GPT-4 model, with the ability to customize elements of the story by selecting specific story elements.
+This code can be a good start to learn to use the OpenAI API to generate content with a simple prompt and includes some ways to customize output.  
+
+This application generates concise stories for a 10-year-old audience, featuring two brothers, Pat and Jack, who embark on adventures in rural western Pennsylvania. It was inspired by stories my grandfather told when I was a kid.  The stories are generated using OpenAI's GPT-4 model, with the ability to customize elements of the story by selecting specific story elements.
 
 ## Table of Contents
 
@@ -19,7 +21,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pat-and-jack-stories.git
+   git clone git@github.com:markstephenburnham/patandjackweb.git
    cd pat-and-jack-stories
    ```
 
